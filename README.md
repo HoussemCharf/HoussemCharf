@@ -6,5 +6,5 @@
   
 Making cheesy code 🧀 my motto? -> “Programs must be written for people to read, and only incidentally for machines to execute.” by Harold Abelson  <br></p>
 
-[![GitHub HoussemCharf](https://img.shields.io/github/followers/houssemcharf?label=follow%20github&style=flat-square)](https://github.com/houssemcharf) [![LinkedIn Houssem](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue](https://www.linkedin.com/in/houssemc/)
+[![GitHub HoussemCharf](https://img.shields.io/github/followers/houssemcharf?label=follow%20github&style=flat-square)](https://github.com/houssemcharf) [![LinkedIn Houssem](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/houssemc/)
 <br>
