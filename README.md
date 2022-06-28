@@ -9,4 +9,4 @@ Making cheesy codes 🧀 my motto? -> “Programs must be written for people to 
 [![GitHub HoussemCharf](https://img.shields.io/github/followers/houssemcharf?label=Follow%20My%20Github&style=flat-square)](https://github.com/houssemcharf) [![LinkedIn Houssem](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/houssemc/)
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=houssemcharf&theme=nord&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=houssemcharf&column=8&theme=gruvbox&no-frame=true)](https://github.com/houssemcharf)
